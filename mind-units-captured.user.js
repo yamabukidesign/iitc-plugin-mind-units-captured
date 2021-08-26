@@ -8,14 +8,8 @@
 // @updateURL      https://github.com/yamabukidesign/iitc-plugin-mind-units-captured/blob/main/mind-units-captured.user.js
 // @downloadURL    https://github.com/yamabukidesign/iitc-plugin-mind-units-captured/blob/main/mind-units-captured.user.js
 // @description    IITC : How much MUs does an agent captured.
-// @include        https://*.ingress.com/intel*
-// @include        http://*.ingress.com/intel*
-// @match          https://*.ingress.com/intel*
-// @match          http://*.ingress.com/intel*
-// @include        https://*.ingress.com/mission/*
-// @include        http://*.ingress.com/mission/*
-// @match          https://*.ingress.com/mission/*
-// @match          http://*.ingress.com/mission/*
+// @include		   https://intel.ingress.com/*
+// @match		   https://intel.ingress.com/*
 // @grant          none
 // ==/UserScript==
 //
