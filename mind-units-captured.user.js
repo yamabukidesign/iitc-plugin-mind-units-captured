@@ -5,8 +5,8 @@
 // @category       Misc
 // @version        0.1.2
 // @namespace      https://github.com/yamabukidesign/iitc-plugin-mind-units-captured
-// @updateURL      https://github.com/yamabukidesign/iitc-plugin-mind-units-captured/blob/main/mind-units-captured.user.js
-// @downloadURL    https://github.com/yamabukidesign/iitc-plugin-mind-units-captured/blob/main/mind-units-captured.user.js
+// @updateURL      https://github.com/yamabukidesign/iitc-plugin-mind-units-captured/raw/main/mind-units-captured.user.js
+// @downloadURL    https://github.com/yamabukidesign/iitc-plugin-mind-units-captured/raw/main/mind-units-captured.user.js
 // @description    IITC : How much MUs does an agent captured.
 // @include        https://intel.ingress.com/*
 // @match          https://intel.ingress.com/*
